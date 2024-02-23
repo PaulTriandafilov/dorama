@@ -12,7 +12,10 @@
     "url": "git+https://github.com/PaulTriandafilov/dorama.git"
   },
   "keywords": [
-    "playwright"
+    "playwright",
+    "POM",
+    "page-objet-model",
+    "end-to-end testing"
   ],
   "author": "pavel",
   "license": "MIT",
