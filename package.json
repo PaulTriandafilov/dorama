@@ -1,0 +1,30 @@
+{
+  "name": "dorama",
+  "version": "1.0.0",
+  "description": "Dorama is designed to simplify the creation of Page Object Model for Playwright project",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulTriandafilov/dorama.git"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "author": "pavel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulTriandafilov/dorama/issues"
+  },
+  "homepage": "https://github.com/PaulTriandafilov/dorama#readme",
+  "peerDependencies": {
+    "playwright-core": ">=1.33.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "prettier": "3.2.4"
+  }
+}
